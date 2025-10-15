@@ -1,0 +1,13 @@
+name: Git-and-Github
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/0eea2107-bca1-4e27-aacc-c5ed72f38d70
+description: Basics of Git and Github
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
